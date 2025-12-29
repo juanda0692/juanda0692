@@ -8,7 +8,7 @@ I am a **Test Automation Engineer** with over 4 years of experience in the IT in
 - I specialize in designing and executing functional tests for **APIs, UI, and Accessibility (A11Y)**.
 - I develop automated workflows using **GitHub Actions**, **Playwright**, **WebdriverIO**, and **BrowserStack**.
 - I bring valuable experience from my previous roles as a social professional and project evaluator in the public sector.
-- Reach me at:  <a href="https://linkedin.com/in/garceshurtado" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Juan Garcés" /></a>.
+- Reach me at: <a href="https://linkedin.com/in/juandavidgarceshurtado" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>.
 
 ---
 
@@ -45,6 +45,6 @@ I am a **Test Automation Engineer** with over 4 years of experience in the IT in
 
 ### 🌐 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/garceshurtado" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/juandavidgarceshurtado" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/juanda0692" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
