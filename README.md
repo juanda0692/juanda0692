@@ -2,13 +2,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Test Automation Engineer** with over 4 years of experience in the IT industry[cite: 9]. [cite_start]My background is unique: I am also a **Historian and Political Scientist**, providing me with a strong analytical perspective on software quality and social systems[cite: 2, 45, 46].
+I am a **Test Automation Engineer** with over 4 years of experience in the IT industry. My background is unique: I am also a **Historian and Political Scientist**, providing me with a strong analytical perspective on software quality and social systems.
 
 - Currently working as a **Test Automation Engineer at Globant**, focusing on the Education domain.
 - I specialize in designing and executing functional tests for **APIs, UI, and Accessibility (A11Y)**.
 - I develop automated workflows using **GitHub Actions**, **Playwright**, **WebdriverIO**, and **BrowserStack**.
 - I bring valuable experience from my previous roles as a social professional and project evaluator in the public sector.
-- Reach me at: **juandagarces92@gmail.com** [cite: 7]
+- Reach me at: **juandagarces92@gmail.com**.
 
 ---
 
