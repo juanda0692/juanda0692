@@ -8,7 +8,7 @@ I am a **Test Automation Engineer** with over 4 years of experience in the IT in
 - I specialize in designing and executing functional tests for **APIs, UI, and Accessibility (A11Y)**.
 - I develop automated workflows using **GitHub Actions**, **Playwright**, **WebdriverIO**, and **BrowserStack**.
 - I bring valuable experience from my previous roles as a social professional and project evaluator in the public sector.
-- Reach me at: **juandagarces92@gmail.com**.
+- Reach me at: <a href="https://linkedin.com/in/garceshurtado" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>.
 
 ---
 
